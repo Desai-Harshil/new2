@@ -1,0 +1,52 @@
+ @media only screen and (max-width : 768px){
+    .header{
+        display: none;
+    }
+    #opn-btn{
+        display: block;
+    }
+    #font-size .p1{
+        font-size: 20px;
+    }
+    .card-title .p2{
+        font-size: 24px;
+        padding: 20px 0px;
+    }
+    .card-text .p3{
+        /* width: 100%; */
+        font-size: 20px;
+    }
+    .card-text .p3{
+        font-size: 10px;
+        line-height: 15px;
+        font-weight: 200;
+        color: lightgray;
+    }
+    .header-logo .p1{
+        font-size: 8px;
+    }
+    #opn-btn{
+        margin-left: 300px;
+    }
+    .social{
+       
+        display: flex;
+    }
+   .social a{
+    font-size: 15px;
+    height: 36px;
+    width: 10px;
+   }
+   #p2{
+    font-size: 11px;
+   }
+   #p3{
+    font-size: 10px;
+    line-height: 16px;
+    opacity: 60%;
+   }
+  #about{
+    margin-left: 100px;
+    padding: 20px 0;
+  }
+ }
